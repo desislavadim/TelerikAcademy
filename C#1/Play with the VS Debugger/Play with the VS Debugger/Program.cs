@@ -1,0 +1,22 @@
+﻿using System;
+
+namespace Play_with_the_VS_Debugger
+{
+    class Program
+    {
+        static void Main()
+        {
+            for (int i = 2; i < 10; i++)
+            {
+                if (i % 2 == 0) 
+                {
+                    Console.WriteLine(i);
+                } 
+                else
+                {
+                    Console.WriteLine(-i);
+                }
+            }
+        }
+    }
+}
