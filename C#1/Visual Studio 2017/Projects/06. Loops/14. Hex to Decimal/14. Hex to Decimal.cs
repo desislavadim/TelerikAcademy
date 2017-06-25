@@ -65,5 +65,9 @@ namespace _14.Hex_to_Decimal
             Console.WriteLine(sum);
         }
     }
+<<<<<<< HEAD
 }
 // NOT COMPLETED
+=======
+}
+>>>>>>> master

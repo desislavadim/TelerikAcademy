@@ -64,5 +64,9 @@ namespace _17.Spiral_Matrix
             Console.WriteLine();
         }
     }
+<<<<<<< HEAD
 }
 // NOT COMPLETED
+=======
+}
+>>>>>>> master

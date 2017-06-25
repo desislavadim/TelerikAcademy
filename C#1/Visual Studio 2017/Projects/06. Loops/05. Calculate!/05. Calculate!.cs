@@ -26,8 +26,19 @@ namespace _05.Calculate_
             int x = int.Parse(Console.ReadLine());
             int factorial = 0;
 
+<<<<<<< HEAD
             
         }
     }
 }
 // NOT COMPLETED
+=======
+            do
+            {
+
+            }
+            while
+        }
+    }
+}
+>>>>>>> master
